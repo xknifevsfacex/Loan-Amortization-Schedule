@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Loan-Amortization-Schedule/Loan-Amortization-Schedule.vcxproj" Id="b72684a0-f005-416b-b4ab-b4f46a31e8b6" />
+</Solution>
