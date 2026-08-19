@@ -1,5 +1,3 @@
-# Loan-Amortization-Schedule
-
 # Financial Loan Amortization Calculator
 
 A real-world C++ financial tool that computes monthly loan payments and builds a complete month-by-month amortization schedule. This application showcases object-oriented programming (OOP), mathematical algorithm modeling, structural data vectors, and file export utilities.
